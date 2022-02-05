@@ -69,11 +69,48 @@ Grading
 
 The 50-minute exam with the lowest score will be dropped.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Remaining Three 50-Minute Exams (300 pts) | 60% |
-| Final Exam (150 pts) | 30% |
-| Problem Sets (50 pts) | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Remaining Three 50-Minute Exams (300 pts)
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam (150 pts)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets (50 pts)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Academic Integrity
 ------------------
